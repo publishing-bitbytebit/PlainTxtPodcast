@@ -2,15 +2,15 @@
   
 [Becca](https://twitter.com/bcpkr396) - [@RJP43](https://github.com/RJP43): Hi there! Welcome to the very first episode of the plain.txt podcast - an entirely student-led initiative aimed to discover, de-stigmatize, and debate Digital Humanities topics. 
   
-Zach: This podcast is produced by the Digital Humanities Master’s Students at [Loyola University Chicago]() and we are proudly supported by the [CTSDH - Center for Textual Studies and Digital Humanities](), [Loyola’s University Libraries]() and [Digital Media Services(). 
+Zach: This podcast is produced by the Digital Humanities Master’s Students at [Loyola University Chicago]() and we are proudly supported by the [CTSDH - Center for Textual Studies and Digital Humanities](), [Loyola’s University Libraries]() and [Digital Media Services](). 
   
-Becca: Today we will be addressing our field's question of the century: What is Digital Humanities? We sat down with Loyola's CTSDH Directors, Dr. Elizabeth Hopwood and Dr. Kyle Roberts to ask them for their go-to DH definitions which you are about to hear. Some weeks later Zach and I gathered fellow Digital Humanities students [Taylor Brown]() and [Tyler Monaghan]() along with our Loyola Chicago affiliated friends June Coyne(), a History PhD, and Computer Science Alum [Griffin Moe]() to reflect on Hopwood's and Robert's responses. We'll jump right into our #debatingDH session after hearing from Hopwood and Roberts - so let's hear what they have to say to "What is Digital Humanities?"     
+Becca: Today we will be addressing our field's question of the century: What is Digital Humanities? We sat down with Loyola's CTSDH Directors, [Dr. Elizabeth Hopwood]() and [Dr. Kyle Roberts]() to ask them for their go-to DH definitions - which you are about to hear in just a few. Some weeks later Zach and I gathered fellow Digital Humanities students [Taylor Brown]() and [Tyler Monaghan]() along with our Loyola Chicago affiliated friends June Coyne(), a History PhD, and Computer Science Alum [Griffin Moe]() to reflect on Hopwood's and Robert's responses. We'll jump right into our #debatingDH session after hearing from Hopwood and Roberts - so let's hear what they had to say when asked "What is Digital Humanities?"     
   
 Roll Interview Answer #1 - Hopwood.   
 Roll Interview Answer #1 - Roberts.  
 Roll #debatingDH cut  
   
-Becca: So what makes DH here at Loyola unique? Let's take a listen to what Dr. Roberts thinks. And then we'll see what Dr. Hopwood has to say. Finally we'll follow-up like before with our #debatingDH reflections.  
+Becca: So what makes DH here at Loyola unique? Let's take a listen to what Dr. Roberts thinks. Then we'll be sure to hear what Dr. Hopwood has to say. And finally we'll follow-up like before with our #debatingDH reflections.  
   
 Roll Interview Answer #2 - Roberts.   
 Roll Interview Answer #2 - Hopwood.   
