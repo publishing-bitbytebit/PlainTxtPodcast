@@ -16,7 +16,7 @@ Roll Interview Answer #2 - Roberts.
 Roll Interview Answer #2 - Hopwood.   
 Role #debatingDH cut   
   
-Becca: But what is the future of DH? *(I don't think we need to say who is about to speak again... there is a clear pattern here)*  
+Becca: How have perceptions of DH changed and what is the future of Digital Humanities? *(I don't think we need to say who is about to speak again... there is a clear pattern here)*  
   
 Roll Interview Answer #3 -    
 Roll Interview Answer #3 -   
