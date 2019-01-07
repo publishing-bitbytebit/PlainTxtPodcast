@@ -8,7 +8,7 @@ Roll Interview Answer #1 - Hopwood.
 Roll Interview Answer #1 - Roberts.  
 Roll #debatingDH cut  
   
-Becca: So what makes DH here at Loyola unique? Let's take a listen to what Dr. Roberts thinks. Then we'll be sure to hear what Dr. Hopwood. And finally we'll follow-up like before with our #debatingDH reflections.  
+Becca: So what makes DH here at Loyola unique? Let's take a listen to what Dr. Roberts thinks. Then we'll be sure to hear from Dr. Hopwood. And finally we'll follow-up like before with our #debatingDH reflections.  
   
 Roll Interview Answer #2 - Roberts.   
 Roll Interview Answer #2 - Hopwood.   
