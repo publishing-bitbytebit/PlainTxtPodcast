@@ -12,12 +12,14 @@ Becca: So what makes DH here at Loyola unique? Let's take a listen to what Dr. R
   
 Roll Interview Answer #2 - Roberts.   
 Roll Interview Answer #2 - Hopwood.   
-Role #debatingDH cut   
+Roll #debatingDH cut   
   
 Becca: How have our perceptions of DH changed and what is the future of Digital Humanities? *(I don't think we need to say who is about to speak again... there is a clear pattern here)*  
   
 Roll Interview Answer #3 - Hopwood.    
 Roll Interview Answer #3 - Roberts.    
-Role #debatingDH cut  
+Roll #debatingDH cut  
   
-Becca: *insert closing statment here* **OR** Play exiting music from #debatingDH cut  
+Becca: On that note, we are all entering the job market so what do we feel qualified for?
+
+Roll #debatingDH cut - "Griffin gives us all jobs"
