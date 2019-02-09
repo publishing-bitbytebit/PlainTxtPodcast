@@ -1,3 +1,7 @@
+---
+episode: 1
+---
+
 [Zach](https://twitter.com/zstella48) - [@zmstell](https://github.com/zmstell): Hello everyone in cyberspace, I’m Zach Stella and today I am here with my co-host Rebecca Parker.  How's it going?
   
 [Becca](https://twitter.com/bcpkr396) - [@RJP43](https://github.com/RJP43): Doing great, thanks Zach! And welcome every body to the very first episode of the plain.txt podcast - this is an entirely student-led initiative aimed to discover, de-stigmatize, and debate Digital Humanities topics. This podcast is produced by [Loyola University Chicago](https://www.luc.edu/) Digital Humanities Master’s Students and friends. We are proudly supported by [Loyola's Center for Textual Studies and Digital Humanities](https://www.luc.edu/ctsdh/).

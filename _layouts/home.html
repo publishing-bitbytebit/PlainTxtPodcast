@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<p>{{ site.description }}</p>
+
+<div class="post-list">
+  <h1>Recent Episodes</h1>
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <a class="post" href="{{ post.url | relative_url }}">
+        <div class="post-inner">
+          <span>{{ post.title | smartify }}</span>
+          <span class="post-meta">
+            <span class="date">Posted on {{ post.date | date: "%b %-d, %Y" }}</span>
+            {% if post.author %}
+            <span class="author"> – {{ post.author }}</span>
+            {% endif %}
+          </span>
+        </div>
+      </a>
+    </li>
+  </ul>
+  {% endfor %}
+</div>
