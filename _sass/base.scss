@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h5 {
+  @include headliner-type;
+}
+
+a {
+  color: $accent-color;
+  transition: opacity 150ms;
+
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
+p {
+  line-height: 1.45;
+}
+
+iframe {
+  position: sticky;
+  top: 0;
+}
