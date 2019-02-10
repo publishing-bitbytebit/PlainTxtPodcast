@@ -51,6 +51,6 @@ Roll Interview Answer #3 - Hopwood.
 Roll Interview Answer #3 - Roberts.    
 Roll #debatingDH cut  
   
-[Zach](https://twitter.com/zstella48) - [@zmstell](https://github.com/zmstell): On that note, we are all entering the job market so what do we feel qualified for?
+[Zach](https://twitter.com/zstella48): On that note, we are all entering the job market so what do we feel qualified for?
 
 Roll #debatingDH cut - "Griffin gives us all jobs"
