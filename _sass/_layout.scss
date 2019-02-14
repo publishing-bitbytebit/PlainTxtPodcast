@@ -41,6 +41,10 @@ nav {
   }
 }
 
+.post-list li > a {
+  display: block;
+}
+
 footer {
   display: grid;
   grid-template-columns: 1fr 1fr;
