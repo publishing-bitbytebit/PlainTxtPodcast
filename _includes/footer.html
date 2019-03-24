@@ -1,0 +1,37 @@
+<footer class="site-footer">
+
+  <div class="footer-col">
+    <a class="footer-site-name" href="{{ "/" | relative_url}}">{{ site.title }}</a>
+  </div>
+
+  <div class="footer-social">
+    {% if site.email %}
+    <a class="social-link" href="mailto:{{ site.email }}">
+      <span class="fa fa-envelope fa-2x"></span>
+    </a>
+    {% endif %}
+
+    {% if site.github_username %}
+    <a class="social-link" href="https://github.com/{{ site.github_username }}">
+      <span class="fab fa-github fa-2x"></span>
+    </a>
+    {% endif %}
+
+    {% if site.facebook_username %}
+    <a class="social-link" href="https://facebook.com/{{ site.facebook_username }}">
+      <span class="fab fa-facebook fa-2x"></span>
+    </a>
+    {% endif %}
+
+    {% if site.twitter_username %}
+    <a class="social-link" href="https://twitter.com/{{ site.twitter_username }}">
+      <span class="fab fa-twitter fa-2x"></span>
+    </a>
+    {% endif %}
+
+    <a class="social-link" href="{{ "/feed.xml" | relative_url }}">
+      <span class="fa fa-rss fa-2x"></span>
+    </a>
+  </div>
+
+</footer>

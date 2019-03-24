@@ -1,0 +1,76 @@
+html {
+  @include paragraph-type;
+  width: 100%;
+  margin: 0;
+  font-size: 18px;
+  letter-spacing: 0.2px;
+  color: $fg-color;
+}
+
+body {
+  width: 50%;
+  margin: 15px auto;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    width: 100%;
+    margin: 5px;
+  }
+  nav {
+    line-height: 1.1;
+  }
+}
+
+nav {
+  @include headliner-type;
+  display: flex;
+  height: 120px;
+  align-items: center;
+  font-size: 3rem;
+
+  > img {
+    height: 100%;
+    margin-right: 0.5rem;
+    object-fit: contain;
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+}
+
+.post-list li > a {
+  display: block;
+}
+
+footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  border-top: 2px solid;
+  padding-top: 0.5rem;
+
+  .footer-site-name {
+    @include headliner-type;
+    color: black;
+    font-size: 1.25rem;
+    text-decoration: none;
+  }
+
+  .footer-social {
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 0.5rem;
+    justify-self: end;
+
+    .social-link {
+      text-decoration: none;
+
+      > span, > span:hover {
+      color: $fg-color;
+      }
+    }
+  }
+}
