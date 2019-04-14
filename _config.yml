@@ -16,11 +16,9 @@
 title: plain.txt podcast
 email: pub.bitbytebit@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PlainTxtPodcast is a student-led initiative out of Loyola University Chicago
-  aimed to discover, de-stigmatize, and debate Digital Humanities topics.
-  Supported by the Center for Textual Studies and Digital Humanities.
+coming soon  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://plaintxtpodcast.com/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  publishing-bitbytebit
 twitter_username: bcpkr396
 permalink: /:year/:month/:day/:title:output_ext
@@ -29,6 +27,7 @@ permalink: /:year/:month/:day/:title:output_ext
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jemoji
 
 collections:
   - transcripts
