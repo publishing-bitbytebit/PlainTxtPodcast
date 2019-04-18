@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: plain.txt podcast
 email: pub.bitbytebit@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-coming soon  
+description: Digital Humanities remains unanimously re-definable— existing in the margins but also the intersections of technology and humanity. Drawing from DH-community conversations, the plain.txt podcast presents a poetic summation of the ever-shifting topics and debates digital humanists face. Join host Rebecca Parker, on the last Friday of every month, as she scrapes the #DH social-sphere and pairs the findings of the field with her spoken-word poetry in yet another attempt to discover what it means to "DO" Digital Humanities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://plaintxtpodcast.com/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  publishing-bitbytebit
