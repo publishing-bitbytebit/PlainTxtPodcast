@@ -1,6 +1,8 @@
-**Please see our [WIKI](https://github.com/publishing-bitbytebit/PlainTxtPodcast/wiki/(de)Brief(ed)-Description) for more information on the podcast and the project!**  
-**You can subscribe to the podcast via [soundcloud](https://soundcloud.com/publishing-bitbytebit) and/or [youTube](https://www.youtube.com/channel/UCTdFrshchl-bJEaBov6px-g?disable_polymer=true)   
-and listen there or at http://plaintxtpodcast.com/.**    
+**Please see our [WIKI](https://github.com/publishing-bitbytebit/PlainTxtPodcast/wiki/(de)Brief(ed)-Description) for more information on the podcast and the project!**   
+  
+**A guide to reading this repository's files and WIKI can be found on [Our Process/Progress](https://github.com/publishing-bitbytebit/PlainTxtPodcast/wiki/Our-Pro%7Bc%7Cgr%7Dess) page.**   
+  
+**You can subscribe to the podcast via [soundcloud](https://soundcloud.com/publishing-bitbytebit) and/or [youTube](https://www.youtube.com/channel/UCTdFrshchl-bJEaBov6px-g?disable_polymer=true) and listen there or at http://plaintxtpodcast.com/.**     
 
 [![original design for podcast's website banner; On the far-left is a roughly sketched notepad with "d.h." scribbled on the front. The notepad is propped up with its slightly open pages acting as a stand and the coiled, wire-binding at the top. The text "plain.txt podcast" sits to the right of the notepad taking up the remaining 3/4 of the image.](https://github.com/publishing-bitbytebit/PlainTxtPodcast/blob/wip/images/dhNotepadWithText.png "plain.txt podcast DH notepad logo")](http://plaintxtpodcast.com/)  
 
