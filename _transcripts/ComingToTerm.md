@@ -15,7 +15,7 @@ beeping
 repeating 《I want visual of heart monitor, github repos from org view with commit monitor visualization, and drawing of people together as the digital art and Inspo from this section》
 
 like a restitched line
-it's re{visting][membering] where you|we were when learning AND lost 《boolean》
+re{visting][membering] where you|we were when learning AND lost 《boolean》
 — feelings we must come to terms with. 
 
 and as one chapter comes to term
@@ -32,9 +32,9 @@ modes to monitor are at every single finger tip: typing, taping, timing, trackin
 《call back to beeping and repeating imagery》
 
 the existence of this entire world 
-tracked with every click. 
+recorded with every click. 
 
-IF learning and be][do{ing are two in the same then we need to reflect and connect. find the patterns to OUT 《link this to UD out regarding LGBTQ +》 algorithms.
+IF learning and be][do{ing are two in the same then we need to reflect and connect. find the patterns to OUT 《link this to UD out regarding LGBTQ + and out stmts》 algorithms.
 ELSE 《if else stmt .. haha》 what are we really learn][do][be{ing?
 
 certainly not human 
@@ -54,16 +54,24 @@ coming to term:
 《stats》
 《some ideas, 
 I still follow more than I'm followed.
-Stir more than I sit but definitely lay more than I stand. Yet, this has stayed the same. Like my weight <well relatively.🙄>
+Stir more than I sit but definitely lay more than I stand. Yet, this has stayed the same.
+
+
+
+
+Like my weight <well relatively.🙄>
 I've battled a bug of the flu variety at least twice but I'm vaccined<lol vaccinated> so I'd probably skew that to 5 to count internally. hmmm a difference of 3.
 
 Now wondering ... do I notice a moment to link these numbers in seeking something with meaning to me ... like 253 
 the address housing ailing ancestorial bodies of my blossoming tree. or 396 
-a number I've mistakenly said instead of 365 too many times when first learning my address in my Aunt's office at PTC .. that's a Pittsburgh company long gone unlike some haunting memories from when 396 on a festively named street changed me. 
+a number I've mistakenly said instead of 365 too many times when first learning my address in my Aunt's office at PTC .. that's a Pittsburgh company long gone unlike those haunting memories from when 396 on a festively named street changed me. 
 
-I digress to past chapter but only to remind you that places like people in our lives provide handlebars to hold onto is we're to mark or paternal <at on pattern full hmmm> ][eternal shifts
+I digress to past chapters but only to remind you that places like people in our lives provide handlebars to hold onto and if we're to mark our paternal <at on pattern full hmmm> ][eternal shifts it's worth noting where we've been 《link timemap to places I've vistited -- curated and Google map for intense data peek》
 
-Nevertheless numbers aren't nuanced enough because 4 and 1
+Nevertheless numbers aren't nuanced enough because 4 and 1 are equally noticed by me for more reasons than I can put simply. And that's the spectrum. 
+
+but I guess that how I've been all along
+all or nothing ... so either way too much of something. 
 
 
 》
@@ -78,17 +86,4 @@ hello everyone out there in cyberspace. we're together at last for the very firs
 I'm coming to you from my 《little》 studio apt space. Currently sitting among my dresses, books, and toy dinosaurs in the third most populated US city— Chicago, IL. [yay/cheering sound effect/maybe?]
 
 And at a time in my life where I am just having to come to terms with things. Do you know the feeling? 
-
-Alright.. before we delve into the te][motions i recited moments ago some might be wondering what you've just stumbled upon. 
-Well, the plain.txt podcast is first and foremost a digital humanitarian effort to share experiment][experienti{al knowledge. A gathering of my][our connecti][transmiss{ions originat][stemm{ing from my][our work[s] in Digital Humanities and Textual Studies. Submerged in a community, as expansive as my own][our engagement, this very first episode comes at the emergence of me finishing my Master's degree at Loyola University Chicago. With thoughts (my own and others) to share to and among the communities of which I hope to be teach][be{ing now and into the future. This podcast hopes to bring people together in learn][do][be{ing humans of a digital persuasion or rather digital humanitarians. 
-
-So this piece - 《coming to term 》 has so much meaning for me personally, but I imagine the idiom[definition ✔] strikes each of us in our own way. I'm wondering who can relate? Please reach out and let me know if you can. Let me know your first thoughts when hearing the phrase 《coming to term 》 via our hashtag on ANY and ALL social media #PlainTxtPodcast 
-
-I wrote this poem trying to do a summation before the beginning of my next chapter in life after graduate school. Now that's a lot of prepositions, huh? So initially coming to term meant coming to an end and that's where I started writing this piece. How can I finish this? What needs to be said before I go? Let's get deeper. . .
-
-In this very first line we branch -- I feel unable to come to terms in the sense of having the correct word{s][ing flow from me so I added an S and as I went to end the line flushed with a feeling of dread I typed another branch — termination ... returning to this idea that there is to every new beginning an ending, a severing, a distancing. 
-
-but how could this be possible in a digital age where we feel stronger binds to our favorite youTube stars than a parent][neighbor][friend sitting right next to you. Well "if there's one thing I've learned in all my years here - is that despair - is less abundant in those who understand How to plant their hearts in community gardens" 
-
-coming to term is certainly less of an ending and more of a beginning if you solidify community connections with individuals... I think...
 ````
