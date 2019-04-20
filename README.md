@@ -1,4 +1,4 @@
-**Please see our [WIKI](https://github.com/publishing-bitbytebit/PlainTxtPodcast/wiki/(de)Brief(ed)-Description) for more information on the podcast and the project!**   
+**Please see our [WIKI](https://github.com/publishing-bitbytebit/PlainTxtPodcast/wiki/%5Bde%7DBrief%7Bed%5D-Description) for more information on the podcast and the project!**   
   
 **A guide to reading this repository's files and WIKI can be found on [Our Process/Progress](https://github.com/publishing-bitbytebit/PlainTxtPodcast/wiki/Our-Pro%7Bc%7Cgr%7Dess) page.**   
   
