@@ -10,7 +10,7 @@ repeating,
 beeping,  
 repeating  
 —like a restitched line  
-re{visting][membering] where we were when learning **AND** lost  
+`re{visting][membering]` where we were when learning **AND** lost  
 —feelings we must come to terms with.   
   
 and as one chapter comes to term  
@@ -46,14 +46,16 @@ Let's seek (our) potential
 `socie][communi{ty`...   
 ME. Are there patterns to read in  
   
-a chapter, a page, a paragraph, a sentence, a word   
-'cause when each comes to term we see categorized human thought.  
-  
-so if we can amass and contrast the writing from our pasts   
+a chapter, page, paragraph, sentence,a WORD?   
+each a chosen `catergory|hierarchy` 
+ingesting a text whether counting words or comparing books
+is another step closer ...  
+'casue if we can amass and contrast the writing from our pasts   
 Who cares if the results don't pass your scrutiny.  
 There is power in the act of assemble.   
 In knowing all the little parts that need accounted for  
-—without reading|hearing|seeing every piece we see entirity differntly  
+—without reading|hearing|seeing every piece 
+we begin to see entirity differntly.    
   
   
 ***     
